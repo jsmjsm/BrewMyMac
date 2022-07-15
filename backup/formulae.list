@@ -12,6 +12,7 @@ cjson
 cmocka
 curl
 dav1d
+docker
 enca
 ffmpeg
 ffmpeg@4
