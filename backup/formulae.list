@@ -42,6 +42,7 @@ jbig2enc
 jemalloc
 jenv
 jpeg
+jpeg-turbo
 jpeg-xl
 jq
 lame
