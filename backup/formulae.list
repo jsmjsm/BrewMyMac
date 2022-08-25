@@ -10,9 +10,11 @@ ca-certificates
 cairo
 cjson
 cmocka
+colima
 curl
 dav1d
 docker
+docker-compose
 enca
 ffmpeg
 ffmpeg@4
@@ -65,14 +67,17 @@ libpthread-stubs
 libraqm
 librist
 libsamplerate
+libslirp
 libsndfile
 libsodium
 libsoxr
+libssh
 libssh2
 libtasn1
 libtiff
 libtool
 libunistring
+libusb
 libuv
 libvidstab
 libvmaf
@@ -85,6 +90,7 @@ libxdmcp
 libxext
 libxrender
 libyaml
+lima
 little-cms2
 lua
 lz4
@@ -122,6 +128,7 @@ pybind11
 pyenv
 python@3.10
 python@3.9
+qemu
 qpdf
 rav1e
 readline
@@ -143,6 +150,7 @@ theora
 tree
 unbound
 unpaper
+vde
 vim
 webp
 wget
