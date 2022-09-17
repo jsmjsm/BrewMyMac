@@ -15,6 +15,7 @@ curl
 dav1d
 docker
 docker-compose
+docker-machine
 enca
 ffmpeg
 ffmpeg@4
@@ -60,6 +61,7 @@ libfido2
 libidn
 libidn2
 libimagequant
+libmpc
 libnghttp2
 libogg
 libpng
@@ -99,6 +101,7 @@ m4
 maven@3.5
 mbedtls
 mpdecimal
+mpfr
 mysql
 ncurses
 nettle
