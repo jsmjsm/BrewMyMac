@@ -35,6 +35,7 @@ gnu-sed
 gnutls
 go
 gobject-introspection
+golangci-lint
 graphite2
 guile
 harfbuzz
