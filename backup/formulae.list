@@ -8,6 +8,7 @@ brotli
 c-ares
 ca-certificates
 cairo
+capstone
 cjson
 cmocka
 colima
@@ -39,6 +40,7 @@ golangci-lint
 graphite2
 guile
 harfbuzz
+highway
 icu4c
 imath
 jbig2dec
@@ -79,6 +81,7 @@ libssh2
 libtasn1
 libtiff
 libtool
+libunibreak
 libunistring
 libusb
 libuv
@@ -103,6 +106,7 @@ maven@3.5
 mbedtls
 mpdecimal
 mpfr
+mpg123
 mysql
 ncurses
 nettle
@@ -131,6 +135,7 @@ protobuf
 pybind11
 pyenv
 python@3.10
+python@3.11
 python@3.9
 qemu
 qpdf
