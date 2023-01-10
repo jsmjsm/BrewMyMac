@@ -10,6 +10,7 @@ ca-certificates
 cairo
 capstone
 cjson
+cmake
 cmocka
 colima
 curl
@@ -98,6 +99,7 @@ libxrender
 libyaml
 lima
 little-cms2
+llvm
 lua
 lz4
 lzo
@@ -123,6 +125,7 @@ openssl@1.1
 openssl@3
 opus
 p11-kit
+pango
 pcre
 pcre2
 perl
@@ -169,6 +172,7 @@ xorgproto
 xvid
 xz
 yarn
+z3
 zeromq
 zimg
 zlib
