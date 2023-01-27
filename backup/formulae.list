@@ -15,9 +15,7 @@ cmocka
 colima
 curl
 dav1d
-docker
 docker-compose
-docker-machine
 enca
 ffmpeg
 ffmpeg@4
