@@ -1,4 +1,5 @@
 aom
+aribb24
 autoconf
 autojump
 axel
@@ -142,6 +143,7 @@ qemu
 qpdf
 rav1e
 readline
+redis
 rtmpdump
 rubberband
 ruby
@@ -152,6 +154,7 @@ snappy
 speex
 sqlite
 srt
+svt-av1
 tcl-tk
 telnet
 tendermint
