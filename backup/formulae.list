@@ -22,6 +22,7 @@ ffmpeg
 ffmpeg@4
 flac
 fontconfig
+fping
 freetype
 frei0r
 fribidi
@@ -64,6 +65,7 @@ libfido2
 libidn
 libidn2
 libimagequant
+liblinear
 libmpc
 libnghttp2
 libogg
@@ -100,6 +102,7 @@ lima
 little-cms2
 llvm
 lua
+lua@5.3
 lz4
 lzo
 m4
@@ -111,6 +114,7 @@ mpg123
 mysql
 ncurses
 nettle
+nmap
 node
 nvm
 ocrmypdf
